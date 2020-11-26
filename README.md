@@ -1,12 +1,10 @@
 ### Hi there 👋
 
+I'm an Entreprise Application Consultant by profession and a Data Science enthusiast. The possibilities in Machine Learning excite me and I am currently at the beginning of my journey into Machine Learning!
+
+- 🔭 I’m currently working on improving my score on the Titanic competition on Kaggle using a Random Forest Classifier.
+- 🌱 I’m currently learning Deep Learning on fast.ai
 <!--
-**priyaark/priyaark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
